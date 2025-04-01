@@ -7,3 +7,6 @@
 def hello_world():
   print("Hello, World!")
   ```
+- [ ] Finish this course
+- [ ] Open Azure account
+- [ ] Introduce myself
